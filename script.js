@@ -1,28 +1,28 @@
 // ===================== questions =============== 
 var questions = [ // array of object for multiple questions
     {
-        question: "What is the capital of France?", //questions
-        choices: ["London", "Paris", "Rome", "Berlin"], // choices for answer
-        answer: 1 //answers are shown in index
+        question: "Utah Mountains, which were seen in the news for Watermelon Snow, is situated in which country?", //questions
+        choices: ["Russia", "Ukraine", "USA", "Indonesia"], // choices for answer
+        answer: 2 //answers are shown in index
     },
     {
-        question: "Which planet is closest to the Sun?",
-        choices: ["Venus", "Mars", "Mercury", "Saturn"],
-        answer: 2
+        question: "Which country announced the ‘In-country’ renewable H-1B visas for India?",
+        choices: ["Australia", "USA", "UK", "Germany"],
+        answer: 1
     },
     {
-        question: "What is the largest ocean in the world?",
-        choices: ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
-        answer: 3
-    },
-    {
-        question: "Who painted the Mona Lisa?",
-        choices: ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+        question: "A ‘New Replenishment Mechanism for Flexible Funding’ has been proposed for which organisation?",
+        choices: ["WHO", "NSIL", "DRDO", "NITI Aayog"],
         answer: 0
     },
     {
-        question: "What is the national animal of Australia?",
-        choices: ["Kangaroo", "Koala", "Emu", "Platypus"],
+        question: "‘Gateway to the Underworld’ is an artefact belonging to which country?",
+        choices: ["India", "Sri Lanka", "Mexico", "Australia"],
+        answer: 2
+    },
+    {
+        question: "‘Global Polio Eradication Initiative (GPEI)’ was founded in which year?",
+        choices: ["1988", "1998", "2008", "2018"],
         answer: 0
     },
     {
@@ -31,9 +31,9 @@ var questions = [ // array of object for multiple questions
         answer: 1
     },
     {
-        question: "Who is the author of the Harry Potter book series?",
-        choices: ["J.R.R. Tolkien", "J.K. Rowling", "C.S. Lewis", "George R.R. Martin"],
-        answer: 1
+        question: "Strawberry Moon is the full moon of which month?",
+        choices: ["June", "July", "August", "September"],
+        answer: 0
     },
     {
         question: "What is the largest mammal in the world?",
@@ -41,14 +41,14 @@ var questions = [ // array of object for multiple questions
         answer: 1
     },
     {
-        question: "What is the chemical symbol for the element Gold?",
-        choices: ["Au", "Ag", "Cu", "Fe"],
-        answer: 0
+        question: "What is the outlay of ‘Exploration of Coal and Lignite Scheme’ from 2021 to 2025?",
+        choices: ["Rs 298 crore", "Rs 798 crore", "Rs 2980 crore", "Rs 7980 crore"],
+        answer: 2
     },
     {
-        question: "Which city is known as the 'Big Apple'?",
-        choices: ["New York City", "Los Angeles", "Chicago", "Houston"],
-        answer: 0
+        question: "Which institution successfully tested the ‘Agni Prime- New Gen Ballistic Missile?",
+        choices: ["BEL", "HAL", "ISRO", "DRDO"],
+        answer: 3
     }
 ];
 
